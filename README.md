@@ -1,6 +1,5 @@
 # Deloitte-Australia-Data-Analytics-Job-Simulation
 
-
 [![Forage](https://img.shields.io/badge/Forage-Job%20Simulation-blue)](https://www.theforage.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-green)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-brightgreen)](https://www.microsoft.com/en-us/microsoft-365/excel)
