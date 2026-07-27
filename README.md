@@ -1,6 +1,5 @@
 # Deloitte-Australia-Data-Analytics-Job-Simulation
 
-# Deloitte Data Analytics Job Simulation (Forage)
 
 [![Forage](https://img.shields.io/badge/Forage-Job%20Simulation-blue)](https://www.theforage.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-green)](https://www.tableau.com/)
@@ -49,7 +48,7 @@ To help the client, Daikibo, answer two critical questions:
 **Conclusion:** Operational risks are heavily concentrated in laser-based machinery. The Tokyo factory is a critical area for immediate intervention and maintenance.
 
 ### Dashboard Screenshot
-![Task 1 Dashboard](images/deloitte_task1_dashboard.png)
+![Task 1 Dashboard](https://github.com/dee8864/Deloitte-Australia-Data-Analytics-Job-Simulation/blob/main/%23VISUALS%20Deloitte-Australia-Data-Analytics-Job-Simulation.png)
 
 ## Task 2: Gender Pay Equality Classification
 
