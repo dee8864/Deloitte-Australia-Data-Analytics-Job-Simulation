@@ -87,3 +87,5 @@ To support the Forensic Tech team in investigating internal complaints by classi
 This repository serves as a portfolio piece to showcase my practical data analytics skills and my ability to deliver business-focused solutions using industry-standard tools. The project was completed as part of a job simulation with Deloitte Australia on the Forage platform.
 
 *Note: All data used is sample data provided by the simulation platform. The findings are for demonstrative purposes only.*
+
+![Task 1 Dashboard](https://github.com/dee8864/Deloitte-Australia-Data-Analytics-Job-Simulation/blob/main/%23CERTIFICATE%20Deloitte-Australia-Data-Analytics-Job-Simulation.png)
