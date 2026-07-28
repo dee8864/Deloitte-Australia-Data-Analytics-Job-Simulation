@@ -87,4 +87,14 @@ This repository serves as a portfolio piece to showcase my practical data analyt
 
 *Note: All data used is sample data provided by the simulation platform. The findings are for demonstrative purposes only.*
 
+# Author
+
+**Deepanshu Sharma**
+
+MBA (Business Analytics)
+
+[LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-8864ds/)
+
+[GitHub](https://github.com/dee8864)
+
 ![Task 1 Dashboard](https://github.com/dee8864/Deloitte-Australia-Data-Analytics-Job-Simulation/blob/main/%23CERTIFICATE%20Deloitte-Australia-Data-Analytics-Job-Simulation.png)
